@@ -1,6 +1,6 @@
 {
     "appService.defaultWebAppToDeploy": "undefined/subscriptions/b062fb60-9880-413b-b4ef-aa9f703ee17c/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/predictiveMaintenance30daysML",
-    "appService.deploySubpath": ".",
+    
     "appService.zipIgnorePattern": [
         "__pycache__{,/**}",
         "*.py[cod]",
